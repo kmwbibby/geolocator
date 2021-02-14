@@ -1,2 +1,2 @@
 # geolocator
-Retrieve Geo-Coordinates for a list of addresses
+Retrieve Geo-Coordinates for a list of Canadian addresses
